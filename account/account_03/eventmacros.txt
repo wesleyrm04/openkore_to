@@ -1,0 +1,25 @@
+automacro my_Level_Map {
+    SimpleHookEvent route
+    exclusive 1
+    #run-once 1
+    timeout 900
+    call {
+        log my level is $.lvl 
+        if ($.lvl < 20) {
+        do conf lockMap prt_fild06
+        } elsif ($.lvl < 30) {
+            do conf lockMap pay_fild01
+        } elsif ($.lvl < 35) { 
+            do conf lockMap pay_fild02
+        } elsif ($.lvl < 50) { 
+            do conf lockMap moc_fild18
+        } elsif ($.lvl < 60) { 
+            do conf lockMap moc_fild17
+        } elsif ($.lvl < 65) { 
+            do conf lockMap moc_fild16
+        } elsif ($.lvl < 100) { 
+            do conf lockMap mosk_dun01
+        }
+        do is Butterfly Wing
+    }
+}

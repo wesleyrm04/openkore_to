@@ -1,0 +1,18 @@
+automacro unstuck {
+	timeout 3
+	exclusive 1
+	console /(calculate|No LOS|reach or damage target|too long to move)/i
+	call {
+	do tele
+	do eval AI::clear
+	}
+}
+
+
+automacro NPCFIX {
+ console /Could not find an NPC at location/
+	call {
+	do relog
+	}
+	timeout 5
+}

@@ -1,0 +1,34 @@
+automacro unstuck {
+	timeout 3
+	exclusive 1
+	console /(calculate|No LOS|reach or damage target|too long to move)/i
+	call {
+	do tele
+	do eval AI::clear
+	}
+}
+
+
+
+automacro NPCFIX {
+ console /Could not find an NPC at location/
+	call {
+	do relog
+	}
+	timeout 5
+}
+
+automacro callslave {
+console /Done talking with NPC Warper/
+call {
+	do p move $.map $.pos
+	}
+}
+
+automacro healx {
+	console /NPC Exists: Healer#hug/
+	call {
+	do talknpc 89 150 n
+	}
+}
+

@@ -1,0 +1,42 @@
+automacro NPCFIX {
+ console /Could not find an NPC at location/
+	call {
+	do relog
+	}
+	timeout 5
+}
+
+
+automacro atk {
+	console /Player (.*) \((\d+)\) is casting (.*) on monster (.*) \((\d+)\).*/i
+	var .lastMatch1 == Luciel
+	call {
+	do sm 78 $.lastMatch5
+	}
+}
+
+
+automacro unstuck {
+	timeout 3
+	exclusive 1
+	console /(calculate|No LOS|reach or damage target)/i
+	call {
+	do eval AI::clear
+	}
+}
+
+automacro savemap {
+	console /Map Change: hugel.gat (97, 156)/
+	call {
+	wait 2
+	do talknpc 89 150 n
+	}
+}
+
+automacro storage{
+console /JessX : 0/
+call {
+	do c @storage
+	}
+}
+

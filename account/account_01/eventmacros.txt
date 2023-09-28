@@ -1,0 +1,20 @@
+macro sellitem {
+    @items = (Brooch [1])
+    do ai manual
+    log --------opening Storage -------- 
+    do c @storage
+
+    $i = 0
+    while ($i < @items) {
+        $itemName = $items[$i]
+        while (&storamount($itemName) > 2 && $.weightpercent < 48) {
+            do storage get $itemName
+        }
+        $i++
+    }
+
+    do storage close
+    log ------- storage close --------- 
+    do ai on
+    do autosell
+}
