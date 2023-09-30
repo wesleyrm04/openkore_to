@@ -70,6 +70,20 @@ Archer Skeleton 2 0 1
 Sohee 2 0 1
 Nine Tail 2 0 1
 Greatest General 2 0 1
+Steel Chonchon 2 0 1
+Muka 2 0 1
+Metaller 2 0 1
+Les 2 0 1
+Wood Goblin 2 0 1
+Mantis 2 0 1
+Spore 2 0 1
+Willow 2 0 1
+Frilldora 2 0 1
+Magnolia 2 0 1
+Scorpion 2 0 1
+Hode 2 0 1
+Sandman 2 0 1
+Deniro 2 0 1
 
 ##### Eggs #####
 Ant's Egg 0 0 0

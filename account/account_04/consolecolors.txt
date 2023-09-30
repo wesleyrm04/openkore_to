@@ -37,8 +37,8 @@ guildchat darkgreen
 partychat brown
 selfchat green
 schat yellow
-list white
-info white
+list dark grey
+info dark grey
 equip grey
 teleport yellow
 plugin gray
