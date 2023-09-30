@@ -40,3 +40,11 @@ call {
 	}
 }
 
+automacro healx {
+	console /NPC Exists: Healer#hug/
+	call {
+	do talknpc 89 150 n
+	}
+}
+
+
