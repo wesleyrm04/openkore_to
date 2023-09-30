@@ -12,7 +12,7 @@ automacro NPCFIX {
 automacro unstuck {
 	timeout 3
 	exclusive 1
-	console /(calculate|No LOS|reach or damage target|too long to move)/i
+	console /(calculate|No LOS|reach or damage target|too long to move|Stuck during route)/i
 	call {
 	do tele
 	do eval AI::clear

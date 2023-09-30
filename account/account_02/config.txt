@@ -232,7 +232,7 @@ runFromTarget_dist 5
 runFromTarget_minStep 7
 runFromTarget_maxPathDistance 13
 
-saveMap prontera
+saveMap hugel
 saveMap_warpToBuyOrSell 1
 saveMap_warpChatCommand
 memo1
@@ -941,7 +941,7 @@ useSelf_item Fire Elemental Converter {
 ######## Autostorage/autosell ########
 
 buyAuto Fly Wing {
-	npc prt_in 126 76
+	npc hu_in01 241 368
 	npc_steps b
 	isMarket 0
 	standpoint
@@ -957,7 +957,7 @@ buyAuto Fly Wing {
 }
 
 buyAuto Awakening Potion {
-	npc prt_in 126 76
+	npc hu_in01 241 368
 	npc_steps b
 	isMarket 0
 	standpoint
@@ -973,7 +973,7 @@ buyAuto Awakening Potion {
 }
 
 buyAuto Butterfly Wing {
-	npc prt_in 126 76
+	npc hu_in01 241 368
 	npc_steps b
 	isMarket 0
 	standpoint
@@ -989,7 +989,7 @@ buyAuto Butterfly Wing {
 }
 
 sellAuto 1
-sellAuto_npc prt_in 126 76
+sellAuto_npc hu_in01 241 368
 sellAuto_standpoint
 sellAuto_distance 3
 sellAuto_maxDistance

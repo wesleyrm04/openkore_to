@@ -239,7 +239,7 @@ runFromTargetFree_min 5
 runFromTargetFree_mid 7
 runFromTargetFree_max 9
 
-saveMap hugel
+saveMap prontera
 saveMap_warpToBuyOrSell 1
 saveMap_warpChatCommand
 memo1
@@ -1194,7 +1194,7 @@ useSelf_item Light Blue Potion {
 ######## Autostorage/autosell ########
 
 buyAuto {
-	npc hu_in01 241 368
+	npc prt_in 126 76
 	npc_steps b
 	isMarket 0
 	standpoint
@@ -1210,7 +1210,7 @@ buyAuto {
 }
 
 buyAuto Butterfly Wing {
-	npc hu_in01 241 368
+	npc prt_in 126 76
 	npc_steps b
 	isMarket 0
 	standpoint
@@ -1226,7 +1226,7 @@ buyAuto Butterfly Wing {
 }
 
 sellAuto 1
-sellAuto_npc hu_in01 241 368
+sellAuto_npc prt_in 126 76
 sellAuto_standpoint
 sellAuto_distance 3
 sellAuto_maxDistance
