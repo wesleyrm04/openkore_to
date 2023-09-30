@@ -1,328 +1,328 @@
 #format: <source coordinate><destination coordinate>[zenny cost][allow ticket][conversation sequence]
 
 ### Talonheim City ###
-hugel 101 151 prontera 155 183 0 r1 r0
-hugel 101 151 alberta 28 234 0 r1 r1
-hugel 101 151 aldebaran 140 131 0 r1 r2
-hugel 101 151 amatsu 198 84 0 r1 r3
-hugel 101 151 ayothaya 208 166 0 r1 r4
-hugel 101 151 comodo 209 143 0 r1 r5
-hugel 101 151 einbech 63 35 0 r1 r6
-hugel 101 151 einbroch 64 200 0 r1 r7
-hugel 101 151 geffen 119 59 0 r1 r8
-hugel 101 151 hugel 96 145 0 r1 r9
-hugel 101 151 izlude 128 114 0 r1 r10
-hugel 101 151 jawaii 251 132 0 r1 r11
-hugel 101 151 yuno 157 51 0 r1 r12
-hugel 101 151 gonryun 160 120 0 r1 r13
-hugel 101 151 lighthalzen 158 92 0 r1 r14
-hugel 101 151 louyang 217 100 0 r1 r15
-hugel 101 151 xmas 147 134 0 r1 r16
-hugel 101 151 manuk 282 138 0 r1 r17
-hugel 101 151 mid_camp 210 288 0 r1 r18
-hugel 101 151 morocc 156 93 0 r1 r19
-hugel 101 151 moscovia 223 184 0 r1 r20
-hugel 101 151 nameless_n 256 215 0 r1 r21
-hugel 101 151 niflheim 202 174 0 r1 r22
-hugel 101 151 payon 179 100 0 r1 r23
-hugel 101 151 rachel 130 110 0 r1 r24
-hugel 101 151 splendide 201 147 0 r1 r25
-hugel 101 151 thor_camp 246 68 0 r1 r26
-hugel 101 151 umbala 97 153 0 r1 r27
-hugel 101 151 veins 216 123 0 r1 r28
+prontera 159 192 prontera 155 183 0 r1 r0
+prontera 159 192 alberta 28 234 0 r1 r1
+prontera 159 192 aldebaran 140 131 0 r1 r2
+prontera 159 192 amatsu 198 84 0 r1 r3
+prontera 159 192 ayothaya 208 166 0 r1 r4
+prontera 159 192 comodo 209 143 0 r1 r5
+prontera 159 192 einbech 63 35 0 r1 r6
+prontera 159 192 einbroch 64 200 0 r1 r7
+prontera 159 192 geffen 119 59 0 r1 r8
+prontera 159 192 hugel 96 145 0 r1 r9
+prontera 159 192 izlude 128 114 0 r1 r10
+prontera 159 192 jawaii 251 132 0 r1 r11
+prontera 159 192 yuno 157 51 0 r1 r12
+prontera 159 192 gonryun 160 120 0 r1 r13
+prontera 159 192 lighthalzen 158 92 0 r1 r14
+prontera 159 192 louyang 217 100 0 r1 r15
+prontera 159 192 xmas 147 134 0 r1 r16
+prontera 159 192 manuk 282 138 0 r1 r17
+prontera 159 192 mid_camp 210 288 0 r1 r18
+prontera 159 192 morocc 156 93 0 r1 r19
+prontera 159 192 moscovia 223 184 0 r1 r20
+prontera 159 192 nameless_n 256 215 0 r1 r21
+prontera 159 192 niflheim 202 174 0 r1 r22
+prontera 159 192 payon 179 100 0 r1 r23
+prontera 159 192 rachel 130 110 0 r1 r24
+prontera 159 192 splendide 201 147 0 r1 r25
+prontera 159 192 thor_camp 246 68 0 r1 r26
+prontera 159 192 umbala 97 153 0 r1 r27
+prontera 159 192 veins 216 123 0 r1 r28
 
 
 ### Talonheim Field ###
-hugel 101 151 ama_fild01 190 197 0 r2 r0 r0
+prontera 159 192 ama_fild01 190 197 0 r2 r0 r0
 
-hugel 101 151 ayo_fild01 173 134 0 r2 r1 r0
-hugel 101 151 ayo_fild02 190 197 0 r2 r1 r1
+prontera 159 192 ayo_fild01 173 134 0 r2 r1 r0
+prontera 159 192 ayo_fild02 190 197 0 r2 r1 r1
 
-hugel 101 151 cmd_fild01 180 178 0 r2 r2 r0
-hugel 101 151 cmd_fild02 231 160 0 r2 r2 r1
-hugel 101 151 cmd_fild03 191 172 0 r2 r2 r2
-hugel 101 151 cmd_fild04 228 194 0 r2 r2 r3
-hugel 101 151 cmd_fild05 224 203 0 r2 r2 r4
-hugel 101 151 cmd_fild06 190 223 0 r2 r2 r5
-hugel 101 151 cmd_fild07 234 177 0 r2 r2 r6
-hugel 101 151 cmd_fild08 194 175 0 r2 r2 r7
-hugel 101 151 cmd_fild09 172 172 0 r2 r2 r8
+prontera 159 192 cmd_fild01 180 178 0 r2 r2 r0
+prontera 159 192 cmd_fild02 231 160 0 r2 r2 r1
+prontera 159 192 cmd_fild03 191 172 0 r2 r2 r2
+prontera 159 192 cmd_fild04 228 194 0 r2 r2 r3
+prontera 159 192 cmd_fild05 224 203 0 r2 r2 r4
+prontera 159 192 cmd_fild06 190 223 0 r2 r2 r5
+prontera 159 192 cmd_fild07 234 177 0 r2 r2 r6
+prontera 159 192 cmd_fild08 194 175 0 r2 r2 r7
+prontera 159 192 cmd_fild09 172 172 0 r2 r2 r8
 
-hugel 101 151 ein_fild01 142 225 0 r2 r3 r0
-hugel 101 151 ein_fild02 182 141 0 r2 r3 r1
-hugel 101 151 ein_fild03 187 228 0 r2 r3 r2
-hugel 101 151 ein_fild04 185 173 0 r2 r3 r3
-hugel 101 151 ein_fild05 216 173 0 r2 r3 r4
-hugel 101 151 ein_fild06 195 148 0 r2 r3 r5
-hugel 101 151 ein_fild07 272 220 0 r2 r3 r6
-hugel 101 151 ein_fild08 173 214 0 r2 r3 r7
-hugel 101 151 ein_fild09 207 174 0 r2 r3 r8
-hugel 101 151 ein_fild10 196 200 0 r2 r3 r9
+prontera 159 192 ein_fild01 142 225 0 r2 r3 r0
+prontera 159 192 ein_fild02 182 141 0 r2 r3 r1
+prontera 159 192 ein_fild03 187 228 0 r2 r3 r2
+prontera 159 192 ein_fild04 185 173 0 r2 r3 r3
+prontera 159 192 ein_fild05 216 173 0 r2 r3 r4
+prontera 159 192 ein_fild06 195 148 0 r2 r3 r5
+prontera 159 192 ein_fild07 272 220 0 r2 r3 r6
+prontera 159 192 ein_fild08 173 214 0 r2 r3 r7
+prontera 159 192 ein_fild09 207 174 0 r2 r3 r8
+prontera 159 192 ein_fild10 196 200 0 r2 r3 r9
 
-hugel 101 151 gef_fild00 46 199 0 r2 r4 r0
-hugel 101 151 gef_fild01 213 204 0 r2 r4 r1
-hugel 101 151 gef_fild02 195 212 0 r2 r4 r2
-hugel 101 151 gef_fild03 257 192 0 r2 r4 r3
-hugel 101 151 gef_fild04 188 171 0 r2 r4 r4
-hugel 101 151 gef_fild05 166 263 0 r2 r4 r5
-hugel 101 151 gef_fild06 248 158 0 r2 r4 r6
-hugel 101 151 gef_fild07 195 191 0 r2 r4 r7
-hugel 101 151 gef_fild08 186 183 0 r2 r4 r8
-hugel 101 151 gef_fild09 221 117 0 r2 r4 r9
-hugel 101 151 gef_fild10 178 218 0 r2 r4 r10
-hugel 101 151 gef_fild11 136 328 0 r2 r4 r11
-hugel 101 151 gef_fild12 240 181 0 r2 r4 r12
-hugel 101 151 gef_fild13 235 235 0 r2 r4 r13
-hugel 101 151 gef_fild14 211 185 0 r2 r4 r14
+prontera 159 192 gef_fild00 46 199 0 r2 r4 r0
+prontera 159 192 gef_fild01 213 204 0 r2 r4 r1
+prontera 159 192 gef_fild02 195 212 0 r2 r4 r2
+prontera 159 192 gef_fild03 257 192 0 r2 r4 r3
+prontera 159 192 gef_fild04 188 171 0 r2 r4 r4
+prontera 159 192 gef_fild05 166 263 0 r2 r4 r5
+prontera 159 192 gef_fild06 248 158 0 r2 r4 r6
+prontera 159 192 gef_fild07 195 191 0 r2 r4 r7
+prontera 159 192 gef_fild08 186 183 0 r2 r4 r8
+prontera 159 192 gef_fild09 221 117 0 r2 r4 r9
+prontera 159 192 gef_fild10 178 218 0 r2 r4 r10
+prontera 159 192 gef_fild11 136 328 0 r2 r4 r11
+prontera 159 192 gef_fild12 240 181 0 r2 r4 r12
+prontera 159 192 gef_fild13 235 235 0 r2 r4 r13
+prontera 159 192 gef_fild14 211 185 0 r2 r4 r14
 
-hugel 101 151 hu_fild01 268 101 0 r2 r5 r0
-hugel 101 151 hu_fild02 222 193 0 r2 r5 r1
-hugel 101 151 hu_fild03 232 185 0 r2 r5 r2
-hugel 101 151 hu_fild04 252 189 0 r2 r5 r3
-hugel 101 151 hu_fild05 196 106 0 r2 r5 r4
-hugel 101 151 hu_fild06 216 220 0 r2 r5 r5
-hugel 101 151 hu_fild07 227 197 0 r2 r5 r6
+prontera 159 192 hu_fild01 268 101 0 r2 r5 r0
+prontera 159 192 hu_fild02 222 193 0 r2 r5 r1
+prontera 159 192 hu_fild03 232 185 0 r2 r5 r2
+prontera 159 192 hu_fild04 252 189 0 r2 r5 r3
+prontera 159 192 hu_fild05 196 106 0 r2 r5 r4
+prontera 159 192 hu_fild06 216 220 0 r2 r5 r5
+prontera 159 192 hu_fild07 227 197 0 r2 r5 r6
 
-hugel 101 151 yuno_fild01 189 224 0 r2 r6 r0
-hugel 101 151 yuno_fild02 192 207 0 r2 r6 r1
-hugel 101 151 yuno_fild03 221 157 0 r2 r6 r2
-hugel 101 151 yuno_fild04 226 199 0 r2 r6 r3
-hugel 101 151 yuno_fild05 223 177 0 r2 r6 r4
-hugel 101 151 yuno_fild06 187 232 0 r2 r6 r5
-hugel 101 151 yuno_fild07 231 174 0 r2 r6 r6
-hugel 101 151 yuno_fild08 196 203 0 r2 r6 r7
-hugel 101 151 yuno_fild09 183 214 0 r2 r6 r8
-hugel 101 151 yuno_fild10 200 124 0 r2 r6 r9
-hugel 101 151 yuno_fild11 195 226 0 r2 r6 r10
-hugel 101 151 yuno_fild12 210 304 0 r2 r6 r11
+prontera 159 192 yuno_fild01 189 224 0 r2 r6 r0
+prontera 159 192 yuno_fild02 192 207 0 r2 r6 r1
+prontera 159 192 yuno_fild03 221 157 0 r2 r6 r2
+prontera 159 192 yuno_fild04 226 199 0 r2 r6 r3
+prontera 159 192 yuno_fild05 223 177 0 r2 r6 r4
+prontera 159 192 yuno_fild06 187 232 0 r2 r6 r5
+prontera 159 192 yuno_fild07 231 174 0 r2 r6 r6
+prontera 159 192 yuno_fild08 196 203 0 r2 r6 r7
+prontera 159 192 yuno_fild09 183 214 0 r2 r6 r8
+prontera 159 192 yuno_fild10 200 124 0 r2 r6 r9
+prontera 159 192 yuno_fild11 195 226 0 r2 r6 r10
+prontera 159 192 yuno_fild12 210 304 0 r2 r6 r11
 
-hugel 101 151 gon_fild01 220 227 0 r2 r7 r0
+prontera 159 192 gon_fild01 220 227 0 r2 r7 r0
 
-hugel 101 151 lhz_fild01 240 179 0 r2 r8 r0
-hugel 101 151 lhz_fild02 185 235 0 r2 r8 r1
-hugel 101 151 lhz_fild03 240 226 0 r2 r8 r2
+prontera 159 192 lhz_fild01 240 179 0 r2 r8 r0
+prontera 159 192 lhz_fild02 185 235 0 r2 r8 r1
+prontera 159 192 lhz_fild03 240 226 0 r2 r8 r2
 
-hugel 101 151 lou_fild01 229 187 0 r2 r9 r0
+prontera 159 192 lou_fild01 229 187 0 r2 r9 r0
 
-hugel 101 151 xmas_fild01 115 145 0 r2 r10 r0
+prontera 159 192 xmas_fild01 115 145 0 r2 r10 r0
 
-hugel 101 151 man_fild01 35 236 0 r2 r11 r0
-hugel 101 151 man_fild02 35 262 0 r2 r11 r1
-hugel 101 151 man_fild03 84 365 0 r2 r11 r2
+prontera 159 192 man_fild01 35 236 0 r2 r11 r0
+prontera 159 192 man_fild02 35 262 0 r2 r11 r1
+prontera 159 192 man_fild03 84 365 0 r2 r11 r2
 
-hugel 101 151 mjolnir_01 204 120 0 r2 r12 r0
-hugel 101 151 mjolnir_02 175 193 0 r2 r12 r1
-hugel 101 151 mjolnir_03 208 213 0 r2 r12 r2
-hugel 101 151 mjolnir_04 179 180 0 r2 r12 r3
-hugel 101 151 mjolnir_05 181 240 0 r2 r12 r4
-hugel 101 151 mjolnir_06 195 270 0 r2 r12 r5
-hugel 101 151 mjolnir_07 235 202 0 r2 r12 r6
-hugel 101 151 mjolnir_08 188 215 0 r2 r12 r7
-hugel 101 151 mjolnir_09 205 144 0 r2 r12 r8
-hugel 101 151 mjolnir_10 245 223 0 r2 r12 r9
-hugel 101 151 mjolnir_11 180 206 0 r2 r12 r10
-hugel 101 151 mjolnir_12 196 208 0 r2 r12 r11
+prontera 159 192 mjolnir_01 204 120 0 r2 r12 r0
+prontera 159 192 mjolnir_02 175 193 0 r2 r12 r1
+prontera 159 192 mjolnir_03 208 213 0 r2 r12 r2
+prontera 159 192 mjolnir_04 179 180 0 r2 r12 r3
+prontera 159 192 mjolnir_05 181 240 0 r2 r12 r4
+prontera 159 192 mjolnir_06 195 270 0 r2 r12 r5
+prontera 159 192 mjolnir_07 235 202 0 r2 r12 r6
+prontera 159 192 mjolnir_08 188 215 0 r2 r12 r7
+prontera 159 192 mjolnir_09 205 144 0 r2 r12 r8
+prontera 159 192 mjolnir_10 245 223 0 r2 r12 r9
+prontera 159 192 mjolnir_11 180 206 0 r2 r12 r10
+prontera 159 192 mjolnir_12 196 208 0 r2 r12 r11
 
-hugel 101 151 mosk_fild01 82 104 0 r2 r13 r0
-hugel 101 151 mosk_fild02 131 147 0 r2 r13 r1
+prontera 159 192 mosk_fild01 82 104 0 r2 r13 r0
+prontera 159 192 mosk_fild02 131 147 0 r2 r13 r1
 
-hugel 101 151 nif_fild01 215 229 0 r2 r14 r0
-hugel 101 151 nif_fild02 167 234 0 r2 r14 r1
+prontera 159 192 nif_fild01 215 229 0 r2 r14 r0
+prontera 159 192 nif_fild02 167 234 0 r2 r14 r1
 
-hugel 101 151 pay_fild01 158 206 0 r2 r15 r0
-hugel 101 151 pay_fild02 151 219 0 r2 r15 r1
-hugel 101 151 pay_fild03 205 148 0 r2 r15 r2
-hugel 101 151 pay_fild04 186 247 0 r2 r15 r3
-hugel 101 151 pay_fild05 134 204 0 r2 r15 r4
-hugel 101 151 pay_fild06 193 235 0 r2 r15 r5
-hugel 101 151 pay_fild07 200 177 0 r2 r15 r6
-hugel 101 151 pay_fild08 137 189 0 r2 r15 r7
-hugel 101 151 pay_fild09 201 224 0 r2 r15 r8
-hugel 101 151 pay_fild10 160 205 0 r2 r15 r9
-hugel 101 151 pay_fild11 194 150 0 r2 r15 r10
+prontera 159 192 pay_fild01 158 206 0 r2 r15 r0
+prontera 159 192 pay_fild02 151 219 0 r2 r15 r1
+prontera 159 192 pay_fild03 205 148 0 r2 r15 r2
+prontera 159 192 pay_fild04 186 247 0 r2 r15 r3
+prontera 159 192 pay_fild05 134 204 0 r2 r15 r4
+prontera 159 192 pay_fild06 193 235 0 r2 r15 r5
+prontera 159 192 pay_fild07 200 177 0 r2 r15 r6
+prontera 159 192 pay_fild08 137 189 0 r2 r15 r7
+prontera 159 192 pay_fild09 201 224 0 r2 r15 r8
+prontera 159 192 pay_fild10 160 205 0 r2 r15 r9
+prontera 159 192 pay_fild11 194 150 0 r2 r15 r10
 
-hugel 101 151 prt_fild00 208 227 0 r2 r16 r0
-hugel 101 151 prt_fild01 190 206 0 r2 r16 r1
-hugel 101 151 prt_fild02 240 206 0 r2 r16 r2
-hugel 101 151 prt_fild03 190 143 0 r2 r16 r3
-hugel 101 151 prt_fild04 307 252 0 r2 r16 r4
-hugel 101 151 prt_fild05 239 213 0 r2 r16 r5
-hugel 101 151 prt_fild06 185 188 0 r2 r16 r6
-hugel 101 151 prt_fild07 193 194 0 r2 r16 r7
-hugel 101 151 prt_fild08 187 218 0 r2 r16 r8
-hugel 101 151 prt_fild09 210 183 0 r2 r16 r9
-hugel 101 151 prt_fild10 195 149 0 r2 r16 r10
-hugel 101 151 prt_fild11 198 164 0 r2 r16 r11
+prontera 159 192 prt_fild00 208 227 0 r2 r16 r0
+prontera 159 192 prt_fild01 190 206 0 r2 r16 r1
+prontera 159 192 prt_fild02 240 206 0 r2 r16 r2
+prontera 159 192 prt_fild03 190 143 0 r2 r16 r3
+prontera 159 192 prt_fild04 307 252 0 r2 r16 r4
+prontera 159 192 prt_fild05 239 213 0 r2 r16 r5
+prontera 159 192 prt_fild06 185 188 0 r2 r16 r6
+prontera 159 192 prt_fild07 193 194 0 r2 r16 r7
+prontera 159 192 prt_fild08 187 218 0 r2 r16 r8
+prontera 159 192 prt_fild09 210 183 0 r2 r16 r9
+prontera 159 192 prt_fild10 195 149 0 r2 r16 r10
+prontera 159 192 prt_fild11 198 164 0 r2 r16 r11
 
-hugel 101 151 ra_fild01 192 162 0 r2 r17 r0
-hugel 101 151 ra_fild02 235 166 0 r2 r17 r1
-hugel 101 151 ra_fild03 202 206 0 r2 r17 r2
-hugel 101 151 ra_fild04 202 208 0 r2 r17 r3
-hugel 101 151 ra_fild05 225 202 0 r2 r17 r4
-hugel 101 151 ra_fild06 202 214 0 r2 r17 r5
-hugel 101 151 ra_fild07 263 196 0 r2 r17 r6
-hugel 101 151 ra_fild08 217 201 0 r2 r17 r7
-hugel 101 151 ra_fild09 87 121 0 r2 r17 r8
-hugel 101 151 ra_fild10 277 181 0 r2 r17 r9
-hugel 101 151 ra_fild11 221 185 0 r2 r17 r10
-hugel 101 151 ra_fild12 175 200 0 r2 r17 r11
-hugel 101 151 ra_fild13 174 197 0 r2 r17 r12
+prontera 159 192 ra_fild01 192 162 0 r2 r17 r0
+prontera 159 192 ra_fild02 235 166 0 r2 r17 r1
+prontera 159 192 ra_fild03 202 206 0 r2 r17 r2
+prontera 159 192 ra_fild04 202 208 0 r2 r17 r3
+prontera 159 192 ra_fild05 225 202 0 r2 r17 r4
+prontera 159 192 ra_fild06 202 214 0 r2 r17 r5
+prontera 159 192 ra_fild07 263 196 0 r2 r17 r6
+prontera 159 192 ra_fild08 217 201 0 r2 r17 r7
+prontera 159 192 ra_fild09 87 121 0 r2 r17 r8
+prontera 159 192 ra_fild10 277 181 0 r2 r17 r9
+prontera 159 192 ra_fild11 221 185 0 r2 r17 r10
+prontera 159 192 ra_fild12 175 200 0 r2 r17 r11
+prontera 159 192 ra_fild13 174 197 0 r2 r17 r12
 
-hugel 101 151 moc_fild01 219 205 0 r2 r18 r0
-hugel 101 151 moc_fild02 177 206 0 r2 r18 r1
-hugel 101 151 moc_fild03 194 182 0 r2 r18 r2
-hugel 101 151 moc_fild07 224 170 0 r2 r18 r3
-hugel 101 151 moc_fild11 198 216 0 r2 r18 r4
-hugel 101 151 moc_fild12 156 187 0 r2 r18 r5
-hugel 101 151 moc_fild13 185 263 0 r2 r18 r6
-hugel 101 151 moc_fild16 206 228 0 r2 r18 r7
-hugel 101 151 moc_fild17 208 238 0 r2 r18 r8
-hugel 101 151 moc_fild18 209 223 0 r2 r18 r9
-hugel 101 151 moc_fild19 85 97 0 r2 r18 r10
-hugel 101 151 moc_fild20 207 202 0 r2 r18 r11
-hugel 101 151 moc_fild21 31 195 0 r2 r18 r12
-hugel 101 151 moc_fild22 38 195 0 r2 r18 r13
+prontera 159 192 moc_fild01 219 205 0 r2 r18 r0
+prontera 159 192 moc_fild02 177 206 0 r2 r18 r1
+prontera 159 192 moc_fild03 194 182 0 r2 r18 r2
+prontera 159 192 moc_fild07 224 170 0 r2 r18 r3
+prontera 159 192 moc_fild11 198 216 0 r2 r18 r4
+prontera 159 192 moc_fild12 156 187 0 r2 r18 r5
+prontera 159 192 moc_fild13 185 263 0 r2 r18 r6
+prontera 159 192 moc_fild16 206 228 0 r2 r18 r7
+prontera 159 192 moc_fild17 208 238 0 r2 r18 r8
+prontera 159 192 moc_fild18 209 223 0 r2 r18 r9
+prontera 159 192 moc_fild19 85 97 0 r2 r18 r10
+prontera 159 192 moc_fild20 207 202 0 r2 r18 r11
+prontera 159 192 moc_fild21 31 195 0 r2 r18 r12
+prontera 159 192 moc_fild22 38 195 0 r2 r18 r13
 
-hugel 101 151 spl_fild01 175 186 0 r2 r19 r0
-hugel 101 151 spl_fild02 236 184 0 r2 r19 r1
-hugel 101 151 spl_fild03 188 204 0 r2 r19 r2
+prontera 159 192 spl_fild01 175 186 0 r2 r19 r0
+prontera 159 192 spl_fild02 236 184 0 r2 r19 r1
+prontera 159 192 spl_fild03 188 204 0 r2 r19 r2
 
-hugel 101 151 um_fild01 217 206 0 r2 r20 r0
-hugel 101 151 um_fild02 223 221 0 r2 r20 r1
-hugel 101 151 um_fild03 237 215 0 r2 r20 r2
-hugel 101 151 um_fild04 202 197 0 r2 r20 r3
+prontera 159 192 um_fild01 217 206 0 r2 r20 r0
+prontera 159 192 um_fild02 223 221 0 r2 r20 r1
+prontera 159 192 um_fild03 237 215 0 r2 r20 r2
+prontera 159 192 um_fild04 202 197 0 r2 r20 r3
 
-hugel 101 151 ve_fild01 186 175 0 r2 r21 r0
-hugel 101 151 ve_fild02 196 370 0 r2 r21 r1
-hugel 101 151 ve_fild03 222 45 0 r2 r21 r2
-hugel 101 151 ve_fild04 51 250 0 r2 r21 r3
-hugel 101 151 ve_fild05 202 324 0 r2 r21 r4
-hugel 101 151 ve_fild06 150 223 0 r2 r21 r5
-hugel 101 151 ve_fild07 149 307 0 r2 r21 r6
+prontera 159 192 ve_fild01 186 175 0 r2 r21 r0
+prontera 159 192 ve_fild02 196 370 0 r2 r21 r1
+prontera 159 192 ve_fild03 222 45 0 r2 r21 r2
+prontera 159 192 ve_fild04 51 250 0 r2 r21 r3
+prontera 159 192 ve_fild05 202 324 0 r2 r21 r4
+prontera 159 192 ve_fild06 150 223 0 r2 r21 r5
+prontera 159 192 ve_fild07 149 307 0 r2 r21 r6
 
 
 ### Talonheim Dungeon ###
-hugel 101 151 abyss_01 261 272 0 r3 r0 r0
-hugel 101 151 abyss_02 275 270 0 r3 r0 r1
-hugel 101 151 abyss_03 116 27 0 r3 r0 r2
+prontera 159 192 abyss_01 261 272 0 r3 r0 r0
+prontera 159 192 abyss_02 275 270 0 r3 r0 r1
+prontera 159 192 abyss_03 116 27 0 r3 r0 r2
 
-hugel 101 151 ama_dun01 228 11 0 r3 r1 r0
-hugel 101 151 ama_dun02 34 41 0 r3 r1 r1
-hugel 101 151 ama_dun03 119 14 0 r3 r1 r2
+prontera 159 192 ama_dun01 228 11 0 r3 r1 r0
+prontera 159 192 ama_dun02 34 41 0 r3 r1 r1
+prontera 159 192 ama_dun03 119 14 0 r3 r1 r2
 
-hugel 101 151 anthell01 35 262 0 r3 r2 r0
-hugel 101 151 anthell02 168 170 0 r3 r2 r1
+prontera 159 192 anthell01 35 262 0 r3 r2 r0
+prontera 159 192 anthell02 168 170 0 r3 r2 r1
 
-hugel 101 151 ayo_dun01 275 19 0 r3 r3 r0
-hugel 101 151 ayo_dun02 24 26 0 r3 r3 r1
+prontera 159 192 ayo_dun01 275 19 0 r3 r3 r0
+prontera 159 192 ayo_dun02 24 26 0 r3 r3 r1
 
-hugel 101 151 beach_dun 266 67 0 r3 r4 r0
-hugel 101 151 beach_dun2 255 244 0 r3 r4 r1
-hugel 101 151 beach_dun3 23 260 0 r3 r4 r2
+prontera 159 192 beach_dun 266 67 0 r3 r4 r0
+prontera 159 192 beach_dun2 255 244 0 r3 r4 r1
+prontera 159 192 beach_dun3 23 260 0 r3 r4 r2
 
-hugel 101 151 lhz_dun01 150 288 0 r3 r5 r0
-hugel 101 151 lhz_dun02 150 18 0 r3 r5 r1
-hugel 101 151 lhz_dun03 140 134 0 r3 r5 r2
+prontera 159 192 lhz_dun01 150 288 0 r3 r5 r0
+prontera 159 192 lhz_dun02 150 18 0 r3 r5 r1
+prontera 159 192 lhz_dun03 140 134 0 r3 r5 r2
 
-hugel 101 151 iz_dun00 168 168 0 r3 r6 r0
-hugel 101 151 iz_dun01 253 252 0 r3 r6 r1
-hugel 101 151 iz_dun02 236 204 0 r3 r6 r2
-hugel 101 151 iz_dun03 32 63 0 r3 r6 r3
-hugel 101 151 iz_dun04 26 27 0 r3 r6 r4
+prontera 159 192 iz_dun00 168 168 0 r3 r6 r0
+prontera 159 192 iz_dun01 253 252 0 r3 r6 r1
+prontera 159 192 iz_dun02 236 204 0 r3 r6 r2
+prontera 159 192 iz_dun03 32 63 0 r3 r6 r3
+prontera 159 192 iz_dun04 26 27 0 r3 r6 r4
 
-hugel 101 151 c_tower1 199 159 0 r3 r7 r0
-hugel 101 151 c_tower2 148 283 0 r3 r7 r1
-hugel 101 151 c_tower3 65 147 0 r3 r7 r2
-hugel 101 151 c_tower4 56 155 0 r3 r7 r3
-hugel 101 151 alde_dun01 297 25 0 r3 r7 r4
-hugel 101 151 alde_dun02 168 168 0 r3 r7 r5
-hugel 101 151 alde_dun03 277 178 0 r3 r7 r6
-hugel 101 151 alde_dun04 268 74 0 r3 r7 r7
+prontera 159 192 c_tower1 199 159 0 r3 r7 r0
+prontera 159 192 c_tower2 148 283 0 r3 r7 r1
+prontera 159 192 c_tower3 65 147 0 r3 r7 r2
+prontera 159 192 c_tower4 56 155 0 r3 r7 r3
+prontera 159 192 alde_dun01 297 25 0 r3 r7 r4
+prontera 159 192 alde_dun02 168 168 0 r3 r7 r5
+prontera 159 192 alde_dun03 277 178 0 r3 r7 r6
+prontera 159 192 alde_dun04 268 74 0 r3 r7 r7
 
-hugel 101 151 mjo_dun01 52 17 0 r3 r8 r0
-hugel 101 151 mjo_dun02 381 343 0 r3 r8 r1
-hugel 101 151 mjo_dun03 302 262 0 r3 r8 r2
+prontera 159 192 mjo_dun01 52 17 0 r3 r8 r0
+prontera 159 192 mjo_dun02 381 343 0 r3 r8 r1
+prontera 159 192 mjo_dun03 302 262 0 r3 r8 r2
 
-hugel 101 151 prt_sewb1 131 247 0 r3 r9 r0
-hugel 101 151 prt_sewb2 19 19 0 r3 r9 r1
-hugel 101 151 prt_sewb3 180 169 0 r3 r9 r2
-hugel 101 151 prt_sewb4 100 92 0 r3 r9 r3
+prontera 159 192 prt_sewb1 131 247 0 r3 r9 r0
+prontera 159 192 prt_sewb2 19 19 0 r3 r9 r1
+prontera 159 192 prt_sewb3 180 169 0 r3 r9 r2
+prontera 159 192 prt_sewb4 100 92 0 r3 r9 r3
 
-hugel 101 151 abbey01 51 14 0 r3 r10 r0
-hugel 101 151 abbey02 150 11 0 r3 r10 r1
-hugel 101 151 abbey03 120 10 0 r3 r10 r2
+prontera 159 192 abbey01 51 14 0 r3 r10 r0
+prontera 159 192 abbey02 150 11 0 r3 r10 r1
+prontera 159 192 abbey03 120 10 0 r3 r10 r2
 
-hugel 101 151 ein_dun01 22 14 0 r3 r11 r0
-hugel 101 151 ein_dun02 292 290 0 r3 r11 r1
+prontera 159 192 ein_dun01 22 14 0 r3 r11 r0
+prontera 159 192 ein_dun02 292 290 0 r3 r11 r1
 
-hugel 101 151 gefenia01 40 103 0 r3 r12 r0
-hugel 101 151 gefenia02 203 34 0 r3 r12 r1
-hugel 101 151 gefenia03 266 168 0 r3 r12 r2
-hugel 101 151 gefenia04 130 272 0 r3 r12 r3
+prontera 159 192 gefenia01 40 103 0 r3 r12 r0
+prontera 159 192 gefenia02 203 34 0 r3 r12 r1
+prontera 159 192 gefenia03 266 168 0 r3 r12 r2
+prontera 159 192 gefenia04 130 272 0 r3 r12 r3
 
-hugel 101 151 gef_dun01 104 99 0 r3 r13 r0
-hugel 101 151 gef_dun02 115 236 0 r3 r13 r1
-hugel 101 151 gef_dun03 106 132 0 r3 r13 r2
-hugel 101 151 gef_dun04 203 200 0 r3 r13 r3
+prontera 159 192 gef_dun01 104 99 0 r3 r13 r0
+prontera 159 192 gef_dun02 115 236 0 r3 r13 r1
+prontera 159 192 gef_dun03 106 132 0 r3 r13 r2
+prontera 159 192 gef_dun04 203 200 0 r3 r13 r3
 
-hugel 101 151 glast_01 370 304 0 r3 r14 r0
-hugel 101 151 gl_cas01 199 29 0 r3 r14 r1
-hugel 101 151 gl_cas02 104 25 0 r3 r14 r2
-hugel 101 151 gl_knt01 150 15 0 r3 r14 r3
-hugel 101 151 gl_knt02 157 287 0 r3 r14 r4
-hugel 101 151 gl_chyard 147 15 0 r3 r14 r5
-hugel 101 151 gl_sew01 258 255 0 r3 r14 r6
-hugel 101 151 gl_sew02 108 291 0 r3 r14 r7
-hugel 101 151 gl_sew03 171 283 0 r3 r14 r8
-hugel 101 151 gl_sew04 68 277 0 r3 r14 r9
-hugel 101 151 gl_church 156 7 0 r3 r14 r10
-hugel 101 151 gl_step 12 7 0 r3 r14 r11
-hugel 101 151 gl_dun01 133 271 0 r3 r14 r12
-hugel 101 151 gl_dun02 224 274 0 r3 r14 r13
-hugel 101 151 gl_prison 14 70 0 r3 r14 r14
-hugel 101 151 gl_prison1 150 14 0 r3 r14 r15
+prontera 159 192 glast_01 370 304 0 r3 r14 r0
+prontera 159 192 gl_cas01 199 29 0 r3 r14 r1
+prontera 159 192 gl_cas02 104 25 0 r3 r14 r2
+prontera 159 192 gl_knt01 150 15 0 r3 r14 r3
+prontera 159 192 gl_knt02 157 287 0 r3 r14 r4
+prontera 159 192 gl_chyard 147 15 0 r3 r14 r5
+prontera 159 192 gl_sew01 258 255 0 r3 r14 r6
+prontera 159 192 gl_sew02 108 291 0 r3 r14 r7
+prontera 159 192 gl_sew03 171 283 0 r3 r14 r8
+prontera 159 192 gl_sew04 68 277 0 r3 r14 r9
+prontera 159 192 gl_church 156 7 0 r3 r14 r10
+prontera 159 192 gl_step 12 7 0 r3 r14 r11
+prontera 159 192 gl_dun01 133 271 0 r3 r14 r12
+prontera 159 192 gl_dun02 224 274 0 r3 r14 r13
+prontera 159 192 gl_prison 14 70 0 r3 r14 r14
+prontera 159 192 gl_prison1 150 14 0 r3 r14 r15
 
-hugel 101 151 prt_maze01 99 31 0 r3 r15 r0
-hugel 101 151 prt_maze02 93 20 0 r3 r15 r1
-hugel 101 151 prt_maze03 182 88 0 r3 r15 r2
+prontera 159 192 prt_maze01 99 31 0 r3 r15 r0
+prontera 159 192 prt_maze02 93 20 0 r3 r15 r1
+prontera 159 192 prt_maze03 182 88 0 r3 r15 r2
 
-hugel 101 151 ice_dun01 157 14 0 r3 r16 r0
-hugel 101 151 ice_dun02 151 155 0 r3 r16 r1
-hugel 101 151 ice_dun03 149 22 0 r3 r16 r2
-hugel 101 151 ice_dun04 33 158 0 r3 r16 r3
+prontera 159 192 ice_dun01 157 14 0 r3 r16 r0
+prontera 159 192 ice_dun02 151 155 0 r3 r16 r1
+prontera 159 192 ice_dun03 149 22 0 r3 r16 r2
+prontera 159 192 ice_dun04 33 158 0 r3 r16 r3
 
-hugel 101 151 jupe_cave 140 51 0 r3 r17 r0
-hugel 101 151 juperos_01 53 247 0 r3 r17 r1
-hugel 101 151 juperos_02 37 63 0 r3 r17 r2
-hugel 101 151 jupe_core 150 285 0 r3 r17 r3
+prontera 159 192 jupe_cave 140 51 0 r3 r17 r0
+prontera 159 192 juperos_01 53 247 0 r3 r17 r1
+prontera 159 192 juperos_02 37 63 0 r3 r17 r2
+prontera 159 192 jupe_core 150 285 0 r3 r17 r3
 
-hugel 101 151 kh_dun01 28 226 0 r3 r18 r0
-hugel 101 151 kh_dun02 41 198 0 r3 r18 r1
+prontera 159 192 kh_dun01 28 226 0 r3 r18 r0
+prontera 159 192 kh_dun02 41 198 0 r3 r18 r1
 
-hugel 101 151 gon_dun01 153 53 0 r3 r19 r0
-hugel 101 151 gon_dun02 28 113 0 r3 r19 r1
-hugel 101 151 gon_dun03 68 16 0 r3 r19 r2
+prontera 159 192 gon_dun01 153 53 0 r3 r19 r0
+prontera 159 192 gon_dun02 28 113 0 r3 r19 r1
+prontera 159 192 gon_dun03 68 16 0 r3 r19 r2
 
-hugel 101 151 lou_dun01 218 196 0 r3 r20 r0
-hugel 101 151 lou_dun02 282 20 0 r3 r20 r1
-hugel 101 151 lou_dun03 165 38 0 r3 r20 r2
+prontera 159 192 lou_dun01 218 196 0 r3 r20 r0
+prontera 159 192 lou_dun02 282 20 0 r3 r20 r1
+prontera 159 192 lou_dun03 165 38 0 r3 r20 r2
 
-hugel 101 151 mag_dun01 126 68 0 r3 r21 r0
-hugel 101 151 mag_dun02 47 30 0 r3 r21 r1
+prontera 159 192 mag_dun01 126 68 0 r3 r21 r0
+prontera 159 192 mag_dun02 47 30 0 r3 r21 r1
 
-hugel 101 151 mosk_dun01 189 48 0 r3 r22 r0
-hugel 101 151 mosk_dun02 165 30 0 r3 r22 r1
-hugel 101 151 mosk_dun03 32 135 0 r3 r22 r2
+prontera 159 192 mosk_dun01 189 48 0 r3 r22 r0
+prontera 159 192 mosk_dun02 165 30 0 r3 r22 r1
+prontera 159 192 mosk_dun03 32 135 0 r3 r22 r2
 
-hugel 101 151 nyd_dun01 61 239 0 r3 r23 r0
-hugel 101 151 nyd_dun02 60 271 0 r3 r23 r1
+prontera 159 192 nyd_dun01 61 239 0 r3 r23 r0
+prontera 159 192 nyd_dun02 60 271 0 r3 r23 r1
 
-hugel 101 151 odin_tem01 298 167 0 r3 r24 r0
-hugel 101 151 odin_tem02 224 149 0 r3 r24 r1
-hugel 101 151 odin_tem03 266 280 0 r3 r24 r2
+prontera 159 192 odin_tem01 298 167 0 r3 r24 r0
+prontera 159 192 odin_tem02 224 149 0 r3 r24 r1
+prontera 159 192 odin_tem03 266 280 0 r3 r24 r2
 
-hugel 101 151 orcsdun01 32 170 0 r3 r25 r0
-hugel 101 151 orcsdun01 21 185 0 r3 r25 r1
+prontera 159 192 orcsdun01 32 170 0 r3 r25 r0
+prontera 159 192 orcsdun01 21 185 0 r3 r25 r1
 
 hugel 101 151 pay_dun00 21 183 0 r3 r26 r0
 hugel 101 151 pay_dun01 19 33 0 r3 r26 r1
@@ -330,56 +330,56 @@ hugel 101 151 pay_dun02 19 63 0 r3 r26 r2
 hugel 101 151 pay_dun03 155 159 0 r3 r26 r3
 hugel 101 151 pay_dun04 201 204 0 r3 r26 r4
 
-hugel 101 151 moc_pryd01 192 9 0 r3 r27 r0
-hugel 101 151 moc_pryd02 10 192 0 r3 r27 r1
-hugel 101 151 moc_pryd03 100 92 0 r3 r27 r2
-hugel 101 151 moc_pryd04 181 11 0 r3 r27 r3
-hugel 101 151 moc_pryd05 94 96 0 r3 r27 r4
-hugel 101 151 moc_pryd06 192 8 0 r3 r27 r5
+prontera 159 192 moc_pryd01 192 9 0 r3 r27 r0
+prontera 159 192 moc_pryd02 10 192 0 r3 r27 r1
+prontera 159 192 moc_pryd03 100 92 0 r3 r27 r2
+prontera 159 192 moc_pryd04 181 11 0 r3 r27 r3
+prontera 159 192 moc_pryd05 94 96 0 r3 r27 r4
+prontera 159 192 moc_pryd06 192 8 0 r3 r27 r5
 
-hugel 101 151 ra_san01 140 11 0 r3 r28 r0
-hugel 101 151 ra_san02 32 21 0 r3 r28 r1
-hugel 101 151 ra_san03 8 149 0 r3 r28 r2
-hugel 101 151 ra_san04 204 218 0 r3 r28 r3
-hugel 101 151 ra_san05 150 9 0 r3 r28 r4
+prontera 159 192 ra_san01 140 11 0 r3 r28 r0
+prontera 159 192 ra_san02 32 21 0 r3 r28 r1
+prontera 159 192 ra_san03 8 149 0 r3 r28 r2
+prontera 159 192 ra_san04 204 218 0 r3 r28 r3
+prontera 159 192 ra_san05 150 9 0 r3 r28 r4
 
-hugel 101 151 in_sphinx1 288 9 0 r3 r29 r0
-hugel 101 151 in_sphinx2 149 81 0 r3 r29 r1
-hugel 101 151 in_sphinx3 210 54 0 r3 r29 r2
-hugel 101 151 in_sphinx4 10 222 0 r3 r29 r3
-hugel 101 151 in_sphinx5 100 99 0 r3 r29 r4
+prontera 159 192 in_sphinx1 288 9 0 r3 r29 r0
+prontera 159 192 in_sphinx2 149 81 0 r3 r29 r1
+prontera 159 192 in_sphinx3 210 54 0 r3 r29 r2
+prontera 159 192 in_sphinx4 10 222 0 r3 r29 r3
+prontera 159 192 in_sphinx5 100 99 0 r3 r29 r4
 
-hugel 101 151 treasure01 69 24 0 r3 r30 r0
-hugel 101 151 treasure02 102 27 0 r3 r30 r1
+prontera 159 192 treasure01 69 24 0 r3 r30 r0
+prontera 159 192 treasure02 102 27 0 r3 r30 r1
 
-hugel 101 151 tha_t01 150 39 0 r3 r31 r0
-hugel 101 151 tha_t02 150 136 0 r3 r31 r1
-hugel 101 151 tha_t03 220 158 0 r3 r31 r2
-hugel 101 151 tha_t04 59 143 0 r3 r31 r3
-hugel 101 151 tha_t05 62 11 0 r3 r31 r4
-hugel 101 151 tha_t06 89 221 0 r3 r31 r5
-hugel 101 151 tha_t07 35 166 0 r3 r31 r6
-hugel 101 151 tha_t08 93 148 0 r3 r31 r7
-hugel 101 151 tha_t09 29 107 0 r3 r31 r8
-hugel 101 151 tha_t10 159 138 0 r3 r31 r9
-hugel 101 151 tha_t11 19 20 0 r3 r31 r10
-hugel 101 151 tha_t12 130 52 0 r3 r31 r11
+prontera 159 192 tha_t01 150 39 0 r3 r31 r0
+prontera 159 192 tha_t02 150 136 0 r3 r31 r1
+prontera 159 192 tha_t03 220 158 0 r3 r31 r2
+prontera 159 192 tha_t04 59 143 0 r3 r31 r3
+prontera 159 192 tha_t05 62 11 0 r3 r31 r4
+prontera 159 192 tha_t06 89 221 0 r3 r31 r5
+prontera 159 192 tha_t07 35 166 0 r3 r31 r6
+prontera 159 192 tha_t08 93 148 0 r3 r31 r7
+prontera 159 192 tha_t09 29 107 0 r3 r31 r8
+prontera 159 192 tha_t10 159 138 0 r3 r31 r9
+prontera 159 192 tha_t11 19 20 0 r3 r31 r10
+prontera 159 192 tha_t12 130 52 0 r3 r31 r11
 
-hugel 101 151 thor_v01 21 228 0 r3 r32 r0
-hugel 101 151 thor_v02 75 205 0 r3 r32 r1
-hugel 101 151 thor_v03 34 272 0 r3 r32 r2
+prontera 159 192 thor_v01 21 228 0 r3 r32 r0
+prontera 159 192 thor_v02 75 205 0 r3 r32 r1
+prontera 159 192 thor_v03 34 272 0 r3 r32 r2
 
-hugel 101 151 xmas_dun01 205 15 0 r3 r33 r0
-hugel 101 151 xmas_dun02 129 140 0 r3 r33 r1
+prontera 159 192 xmas_dun01 205 15 0 r3 r33 r0
+prontera 159 192 xmas_dun02 129 140 0 r3 r33 r1
 
-hugel 101 151 tur_dun01 154 49 0 r3 r34 r0
-hugel 101 151 tur_dun02 148 261 0 r3 r34 r1
-hugel 101 151 tur_dun03 132 189 0 r3 r34 r2
-hugel 101 151 tur_dun04 132 189 0 r3 r34 r3
+prontera 159 192 tur_dun01 154 49 0 r3 r34 r0
+prontera 159 192 tur_dun02 148 261 0 r3 r34 r1
+prontera 159 192 tur_dun03 132 189 0 r3 r34 r2
+prontera 159 192 tur_dun04 132 189 0 r3 r34 r3
 
-hugel 101 151 um_dun01 42 31 0 r3 r35 r0
-hugel 101 151 um_dun02 48 30 0 r3 r35 r1
-hugel 101 151 yggdrasil01 204 78 0 r3 r35 r2
+prontera 159 192 um_dun01 42 31 0 r3 r35 r0
+prontera 159 192 um_dun02 48 30 0 r3 r35 r1
+prontera 159 192 yggdrasil01 204 78 0 r3 r35 r2
 
 alberta 195 151 alb2trea 62 69 0 c c r0
 alb2trea 39 50 alberta 192 169 0 r0
