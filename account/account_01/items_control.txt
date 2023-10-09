@@ -49,6 +49,8 @@ Sunflower 0 0 1
 Brooch [1] 0 0 1
 Empty Bottle 0 0 1
 Garlet 0 0 1
+Rod [4] 0 0 1
+Poring Hat 0 0 1
 
 
 ##### HEAL/SUPPORT ITEMS #####

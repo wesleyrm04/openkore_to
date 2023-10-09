@@ -32,7 +32,7 @@ macro sellitem {
     do ai manual
     pause 2
     #log --------opening Storage -------- 
-    do c @storage
+    do c \@storage
 
     while ((&storamount($var[0]) > 1) && ($.weightpercent < 80)) {
     pause 1

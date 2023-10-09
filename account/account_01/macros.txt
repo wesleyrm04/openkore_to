@@ -19,13 +19,6 @@ automacro unstuck {
 	}
 }
 
-automacro storage{
-console /WesleyR : 0/
-call {
-	do c @storage
-	}
-}
-
 automacro healx {
 	console /NPC Exists: Healer#hug/
 	call {

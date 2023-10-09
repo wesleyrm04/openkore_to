@@ -80,6 +80,8 @@ Clown Nose 0 0 1
 Iron Wrist 0 0 1
 Falchion [4] 0 0 1
 Romantic Leaf 0 0 1
+Log 0 0 1
+Strong Branch 0 0 1
 
 Adventurer's Suit 0 0 1 # 2305
 Bandana 0 0 1 # 2211

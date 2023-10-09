@@ -32,7 +32,7 @@ XKore_ID
 
 # It is not advised to set secureAdminPassword if you're using Xkore 2
 secureAdminPassword 1
-adminPassword pewouswe
+adminPassword shiwupri
 callSign
 commandPrefix ;
 callSignGM 0
@@ -1162,14 +1162,14 @@ relogAfterStorage 0
 minStorageZeny 60
 
 npcTimeResponse
-npcWrongStepsMethod 0
+npcWrongStepsMethod 3
 
 getAuto Butterfly Wing {
 	minAmount 2
 	maxAmount 10
 	batchSize
 	passive
-	disabled 0
+	disabled 1
 }
 
 ######## Debugging options; only useful for developers ########
@@ -1189,5 +1189,4 @@ logToFile_Messages
 logToFile_Warnings
 history_max 50
 macro_orphans terminate
-lockmap pay_dun01
-xKore 0
+

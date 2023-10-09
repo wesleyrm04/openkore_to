@@ -1,18 +1,31 @@
 macro sellitem {
-    @items = (Brooch [1])
+    @var = (Rod [4],Poring Hat)
+    #do eval AI::clear
+    pause 1
     do ai manual
-    log --------opening Storage -------- 
-    do c @storage
+    pause 2
+    #log --------opening Storage -------- 
+    do c \@storage
 
-    $i = 0
-    while ($i < @items) {
-        $itemName = $items[$i]
-        while (&storamount($itemName) > 2 && $.weightpercent < 48) {
-            do storage get $itemName
-        }
-        $i++
+    while ((&storamount($var[0]) > 1) && ($.weightpercent < 80)) {
+    pause 1
+    do storage get $var[0]
     }
 
+    while ((&storamount($var[1]) > 1) && ($.weightpercent < 80)) {
+    pause 1
+    do storage get $var[1]
+    }
+
+    while ((&storamount($var[2]) > 1) && ($.weightpercent < 80)) {
+    pause 1
+    do storage get $var[2]
+    }
+
+    while ((&storamount($var[3]) > 1) && ($.weightpercent < 80)) {
+    pause 1
+    do storage get $var[3]
+    } 
     do storage close
     log ------- storage close --------- 
     do ai on

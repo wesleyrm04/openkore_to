@@ -310,7 +310,7 @@ prontera 159 192 lou_dun03 165 38 0 r3 r20 r2
 prontera 159 192 mag_dun01 126 68 0 r3 r21 r0
 prontera 159 192 mag_dun02 47 30 0 r3 r21 r1
 
-prontera 159 192 mosk_dun01 189 48 0 r3 r22 r0
+hugel 101 151 mosk_dun01 189 48 0 r3 r22 r0
 prontera 159 192 mosk_dun02 165 30 0 r3 r22 r1
 prontera 159 192 mosk_dun03 32 135 0 r3 r22 r2
 

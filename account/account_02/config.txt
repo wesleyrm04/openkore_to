@@ -37,7 +37,7 @@ XKore_ID
 
 # It is not advised to set secureAdminPassword if you're using Xkore 2
 secureAdminPassword 1
-adminPassword walocoul
+adminPassword bristahi
 callSign
 commandPrefix ;
 callSignGM 0
@@ -1013,7 +1013,7 @@ relogAfterStorage 0
 minStorageZeny 50
 
 npcTimeResponse
-npcWrongStepsMethod 0
+npcWrongStepsMethod 3
 
 getAuto Awakening Potion {
 	minAmount 1

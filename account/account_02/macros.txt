@@ -1,5 +1,5 @@
 automacro NPCFIX {
- console /Could not find an NPC at location/
+ console /(Could not find an NPC at location|Cleaning all|Using method)/i
 	call {
 	do relog
 	}
@@ -30,13 +30,6 @@ automacro savemap {
 	call {
 	wait 2
 	do talknpc 89 150 n
-	}
-}
-
-automacro storage{
-console /JessX : 0/
-call {
-	do c @storage
 	}
 }
 
