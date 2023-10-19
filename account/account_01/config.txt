@@ -40,7 +40,7 @@ XKore_listenPort 6901
 
 # It is not advised to set secureAdminPassword if you're using Xkore 2
 secureAdminPassword 1
-adminPassword twedagru
+adminPassword niebreal
 callSign
 commandPrefix ;
 callSignGM 0
